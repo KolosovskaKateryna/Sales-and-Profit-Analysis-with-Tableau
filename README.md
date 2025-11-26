@@ -11,3 +11,8 @@ shipping, and analyzed delivery term data.
 Developed Tableau skills in data segmentation, interactive dashboards,
 custom filters, and metrics calculation, gaining practical experience in turning data
 into insights.
+# Dashboard
+<img width="1036" height="664" alt="image" src="https://github.com/user-attachments/assets/349b044d-729e-4877-9835-80f7ef111487" />
+# Link to Dashboard
+https://public.tableau.com/app/profile/kateryna.kolosovska/viz/SalesandProfitAnalysiswithTableau/SalesandProfitAnalysiswithTableau
+
