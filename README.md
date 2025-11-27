@@ -12,7 +12,8 @@ Developed Tableau skills in data segmentation, interactive dashboards,
 custom filters, and metrics calculation, gaining practical experience in turning data
 into insights.
 # Dashboard
-<img width="1036" height="664" alt="image" src="https://github.com/user-attachments/assets/349b044d-729e-4877-9835-80f7ef111487" />
+<img width="1031" height="656" alt="image" src="https://github.com/user-attachments/assets/cbf3f03d-ada9-46bb-989d-7473f6c932fc" />
+
 # Link to Dashboard
 https://public.tableau.com/app/profile/kateryna.kolosovska/viz/SalesandProfitAnalysiswithTableau/SalesandProfitAnalysiswithTableau
 
